@@ -7,7 +7,7 @@ PROJE - 1
    [2,6,16,22,18,27]
    [2,6,16,18,22,27]
 
-* Big-O gösterimi -> O(n^2)
+* Big-O gösterimi -> O(n^2) = o(6^2)
 
 * Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
